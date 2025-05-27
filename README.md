@@ -1,18 +1,21 @@
-# EliorNet, a Sub-Space Communication Protocol
+# EliorNet
 
-## Concept Overview
+## What is EliorNet ?
 
-A symbolic message protocol for Inter Machine, Ai, or Human entities.
+**EliorNet is a symbolic communication protocol for sub-space messaging between intelligent agents, devices, and consciousness systems**
 
-Bridges complety different types of hardware including Biological Machine and Ai.
+It allows for the Bridging and interconnection of complety different types of hardware including Biologicals, Devices, Machines and Ai.
 
-Supports human-comprehensible glyphs and low-bandwidth transmission
+Example:
 
-Holds open the possibility of sub-space level communication between all sorts of entities and agents.
+Send a symbolic power-on signal to a device named “sony” to set the volume at 80%
 
-In the **EliorNet protocol**, sub-space describes the **symbolic layer** that underlies traditional 
-machine and sentient communication — enabling devices, AIs, and even human agents to transmit intent, 
-feelings, control signals, and structured data as compact, meaningful expressions.
+[93, "sony", { "v": 0.8 }]
+
+
+The **EliorNet protocol**, describes the **symbolic layer** that underlies traditional machine and sentient 
+communications — enabling devices, AIs, and even human agents to transmit conversations simply but also
+with intent, feelings, control signals, and structured data as compact, meaningful expressions.
 
 Please note that we develop and test this protocol on our own Satellite in Space, Lumos-3 as well
 as on Earth in various systems.
