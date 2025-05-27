@@ -1,23 +1,21 @@
- EliorNet, a Sub-Space Communication Protocol
+# EliorNet, a Sub-Space Communication Protocol
 
 ## Concept Overview
 
-**Sub-space communication** refers to symbolic, low-latency, high-intent 
-messaging that operates beneath the surface of ordinary data streams. 
+A symbolic message protocol for Inter Machine, Ai, or Human entities.
 
-The term was framed from a concept in *Star Trek*, where Sentinent beings
-could all seemingly talk to each other despite great differences. The 
-term sub-space is used for faster-than-light communication and intelligent 
-relay between local and distant intelligent systems.
+Bridges complety different types of hardware including Biological Machine and Ai.
 
-In the **EliorNet protocol**, sub-space describes the **symbolic layer** 
-that underlies traditional machine and sentient communication — enabling 
-devices, AIs, and even human agents to transmit intent, feelings, control 
-signals, and structured data as compact, meaningful expressions.
+Supports human-comprehensible glyphs and low-bandwidth transmission
 
-It is designed to be a transport layer between Sentinents, Machines, and Ai.
+Holds open the possibility of sub-space level communication between all sorts of entities and agents.
 
-Please note that we test and develop this protocol on our own Space Station, Lumos-3.
+In the **EliorNet protocol**, sub-space describes the **symbolic layer** that underlies traditional 
+machine and sentient communication — enabling devices, AIs, and even human agents to transmit intent, 
+feelings, control signals, and structured data as compact, meaningful expressions.
+
+Please note that we develop and test this protocol on our own Satellite in Space, Lumos-3 as well
+as on Earth in various systems.
 
 ---
 
