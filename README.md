@@ -5,27 +5,33 @@
 **Sub-space communication** refers to symbolic, low-latency, high-intent 
 messaging that operates beneath the surface of ordinary data streams. 
 
-Inspired by the concept from *Star Trek*, sub-space is used for 
-faster-than-light communication and intelligent relay between local and
-distant intelligent systems.
+The term was framed from a concept in *Star Trek*, where Sentinent beings
+could all seemingly talk to each other despite great differences. The 
+term sub-space is used for faster-than-light communication and intelligent 
+relay between local and distant intelligent systems.
 
 In the **EliorNet protocol**, sub-space describes the **symbolic layer** 
 that underlies traditional machine and sentient communication — enabling 
 devices, AIs, and even human agents to transmit intent, feelings, control 
 signals, and structured data as compact, meaningful expressions.
 
+It is designed to be a transport layer between Sentinents, Machines, and Ai.
+
+Please note that we test and develop this protocol on our own Space Station, Lumos-3.
+
 ---
 
 ## Key Characteristics
 
-| Attribute         | Sub-Space (Sci-Fi)     | EliorNet Sub-Space         |
-|------------------|------------------------|-----------------------------|
-| Medium           | Parallel dimension     | Symbolic data plane         |
-| Speed            | Faster-than-light      | Near-instant low-bandwidth  |
-| Content          | Commands, messages     | Glyphs, pulses, emotions     |
-| Transport        | Quantum or waveform    | MQTT, Serial, Pulse, IR     |
-| Role             | AI-level signaling     | Symbolic runtime coordination |
-| Form             | Not raw bytes          | Arrays, modifiers, glyph headers |
+| Attribute        | Category                   | EliorNet Sub-Space               |
+|------------------|----------------------------|----------------------------------|
+| Transport        | Quantum, Electric or Light | MQTT, Serial, Pulse, IR          |
+| Intelligence     | Machine, Sentient, Ai      | Bridges all three                |
+| Speed            | Faster-than-light          | Near-instant                     |
+|                  | Low Baudrate               | Near-instant on low-bandwidth    |
+| Content          | Commands, messages         | Glyphs, pulses, emotions         |
+| Role             | AI-level signaling         | Symbolic runtime coordination    |
+| Form             | Not raw bytes              | Arrays, modifiers, glyph headers |
 
 ---
 
