@@ -1,3 +1,22 @@
+"""
+
+EliorNet Glyph Table
+
+Main Index
+
+000 Generalities
+100 Philosophy & psychology
+200 Religion
+300 Social sciences
+400 Language
+500 Natural sciences & mathematics
+600 Technology (Applied sciences)
+700 The arts
+800 Literature & rhetoric
+900 Geography & history
+
+"""
+
 glyph_table = {
   "ein": {
     "id": "ein",
